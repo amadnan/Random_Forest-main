@@ -1,1 +1,2 @@
-# Random_Forest-main
+# Random_Forest
+ Better than decision tree 
